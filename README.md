@@ -4,5 +4,6 @@ This project was aimed at a bit more CSS and mouse movement tracking.
 
 Next I plan to create some functionality that will be executed on a mouse click.
 
-
-All material is subject to MITxPro licensing and they reserve the rights to the project.
+To run this Repo:
+1. Clone this repo
+2. Run on your local machine
